@@ -16,7 +16,7 @@ section{
 .card{
     margin: auto;
 }
-#presentacion i{
+#presentacion i, hr{
     display: block;
     text-align: center;
     background-color: #0dcaf0;
