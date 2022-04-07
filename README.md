@@ -1,5 +1,7 @@
 # viajes_chile
 prueba TD
+GitPage:  
+https://nicolaspal8.github.io/viajes_chile/
 
 Es una pagina la cual implementa todo lo que hemos aprendido hasta el momento 
 la cual posee componentes de bootstrap como la barra de navegacion, carousel, 
