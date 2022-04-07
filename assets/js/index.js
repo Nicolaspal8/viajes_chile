@@ -15,6 +15,7 @@ $(document).ready(function(){
         800
         );
     });
+    
     // ***Cambio de Color Nav***
     $(window).scroll(function() {
         let distancia = $('html').scrollTop();
